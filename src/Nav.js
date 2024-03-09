@@ -27,7 +27,7 @@ export default function Nav() {
             <a
               class={nav === "home" ? "selected" : ""}
               onClick={(e) => setNav("home")}
-              href="/"
+              href="/Mohandas_Profile"
             >
               <p>Home</p>
             </a>
@@ -37,7 +37,7 @@ export default function Nav() {
             <a
               class={nav === "#/work" ? "selected" : ""}
               onClick={(e) => setNav("#/work")}
-              href="/#/work"
+              href="/Mohandas_Profile/#/work"
             >
               Work
             </a>
@@ -46,7 +46,7 @@ export default function Nav() {
             <a
               class={nav === "#/about" ? "selected" : ""}
               onClick={(e) => setNav("#/about")}
-              href="/#/about"
+              href="/Mohandas_Profile/#/about"
             >
               About
             </a>
@@ -54,7 +54,7 @@ export default function Nav() {
           <li>
             <a
               class={nav === "#/contact" ? "selected" : ""}
-              href="/#/contact"
+              href="/Mohandas_Profile/#/contact"
               onClick={(e) => setNav("#/contact")}
             >
               Contact
