@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Mohandas_Profile/static/css/main.dc607a39.css",
-    "main.js": "/Mohandas_Profile/static/js/main.82844853.js",
+    "main.js": "/Mohandas_Profile/static/js/main.52b1e00a.js",
     "static/media/myAvatar.svg": "/Mohandas_Profile/static/media/myAvatar.16988159fb32568695e9e0992642ec0b.svg",
     "index.html": "/Mohandas_Profile/index.html",
     "main.dc607a39.css.map": "/Mohandas_Profile/static/css/main.dc607a39.css.map",
-    "main.82844853.js.map": "/Mohandas_Profile/static/js/main.82844853.js.map"
+    "main.52b1e00a.js.map": "/Mohandas_Profile/static/js/main.52b1e00a.js.map"
   },
   "entrypoints": [
     "static/css/main.dc607a39.css",
-    "static/js/main.82844853.js"
+    "static/js/main.52b1e00a.js"
   ]
 }
