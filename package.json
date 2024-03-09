@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Mohandasveena98.github.io/Mohandas_Profile",
+  "homepage": "http://Mohandasveena98.github.io/Mohandas_Profile/",
   "name": "port-folio",
   "version": "1.0.0",
   "description": "",
@@ -24,9 +24,9 @@
     "typescript": "4.1.3"
   },
   "scripts": {
-    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
