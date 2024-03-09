@@ -1,0 +1,80 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
+body {
+  background: #272727;
+  font-family: "Montserrat", sans-serif;
+}
+.home {
+  position: absolute;
+  top: 30%;
+  left: 15%;
+  color: white;
+  font-weight: 10;
+  font-size: 38px;
+}
+.home strong {
+  color: #a020f0;
+}
+.subtxt {
+  margin-top: 20px;
+  font-weight: 10;
+  font-size: 25px;
+}
+.subtxt p {
+  margin-bottom: 25px;
+}
+.avatar {
+  position: absolute;
+  top: 20%;
+  left: 60%;
+}
+.img-fluid {
+  width: 70%;
+  border-radius: 50%;
+}
+.resume {
+  background-color: #a020f0; /* Green */
+  border: none;
+  color: white;
+  margin-top: 15px;
+  text-decoration: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 50px;
+}
+.res :hover {
+  opacity: 1;
+  box-shadow: 0 0 11px #a020f0;
+  cursor: pointer;
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
+.resume a {
+  text-decoration: none;
+  color: white;
+}
+.img {
+  text-align: center;
+  margin: auto;
+  width: 150px;
+}
+@media only screen and (max-width: 1024px) {
+  .home {
+    top: 20%;
+    left: 10%;
+    text-align: center;
+  }
+  .avatar {
+    top: 45%;
+    left: 5%;
+  }
+}
