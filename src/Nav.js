@@ -12,7 +12,7 @@ export default function Nav() {
 
   useEffect(() => {
     if (window.location.pathname === "/") {
-      setNav("/home");
+      setNav("home");
     } else {
       setNav(window.location.pathname);
     }
@@ -37,7 +37,7 @@ export default function Nav() {
             <a
               class={nav === "/work" ? "selected" : ""}
               onClick={(e) => setNav("/work")}
-              href="/Mohandas_Profile/work"
+              href="/work"
             >
               Work
             </a>
@@ -46,7 +46,7 @@ export default function Nav() {
             <a
               class={nav === "/about" ? "selected" : ""}
               onClick={(e) => setNav("/about")}
-              href="/Mohandas_Profile/about"
+              href="/about"
             >
               About
             </a>
@@ -54,7 +54,7 @@ export default function Nav() {
           <li>
             <a
               class={nav === "/contact" ? "selected" : ""}
-              href="/Mohandas_Profile/contact"
+              href="/contact"
               onClick={(e) => setNav("/contact")}
             >
               Contact

@@ -1,7 +1,8 @@
 {
-  "homepage": "http://Mohandasveena98.github.io/Mohandas_Profile/",
   "name": "port-folio",
+  "homepage": "http://Mohandasveena98.github.io/Mohandas_Profile",
   "version": "1.0.0",
+  "private":"false",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
