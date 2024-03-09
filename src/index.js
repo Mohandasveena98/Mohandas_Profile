@@ -15,10 +15,10 @@ root.render(
   <StrictMode>
     <Router>
       <Routes>
-        <Route path="/Mohandas_Profile" element={<App />} exact />
-        <Route path="/Mohandas_Profile/work" element={<Work />} />
-        <Route path="/Mohandas_Profile/about" element={<About />} />
-        <Route path="/Mohandas_Profile/contact" element={<Contact />} />
+        <Route path="/" element={<App />} exact />
+        <Route path="/work" element={<Work />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<Nopage />} />
       </Routes>
     </Router>
