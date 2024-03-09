@@ -13,7 +13,7 @@ const root = createRoot(rootElement);
 
 root.render(
   <StrictMode>
-    <Router basename="Mohandas_Profile">
+    <Router basename="/Mohandas_Profile">
       <Routes>
         <Route path="/Mohandas_Profile" element={<App />} exact />
         <Route path="/work" element={<Work />} />
