@@ -263,10 +263,10 @@ export default function About() {
             </div>
           </div>
         </div>
-        <div>
+        <div className="boxarw">
           <p>&nbsp;&nbsp;&nbsp;&nbsp;]</p>
         </div>
-        <div>
+        <div className="flowerarw">
           <p>&nbsp;&nbsp;&#125;</p>
         </div>
       </div>

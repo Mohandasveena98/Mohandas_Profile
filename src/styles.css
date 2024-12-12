@@ -77,4 +77,8 @@ body {
     top: 45%;
     left: 5%;
   }
+  .img-fluid{
+    margin-top: 50px;
+  }
 }
+
