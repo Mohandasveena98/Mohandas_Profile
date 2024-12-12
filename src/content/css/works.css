@@ -1,0 +1,93 @@
+.workcontainer {
+  display: flex;
+  width: 920px;
+  height: auto;
+  margin: 30px auto;
+  margin-left: 15%;
+}
+.workpage {
+  margin-top: 5%;
+}
+.workbox {
+  width: 200%;
+  height: auto;
+  border: 1px solid #ccc;
+  margin-right: 1%;
+  background: white;
+  border-radius: 10px;
+  opacity: 0.6;
+  transition: 0.9;
+}
+.workbox:hover {
+  opacity: 1;
+  box-shadow: 0 0 11px #a020f0;
+  cursor: pointer;
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
+.workbox a {
+  text-decoration: none;
+  color: white;
+}
+.workbox button {
+  background-color: #a020f0;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 50px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.workbox button:hover {
+  cursor: pointer;
+  background-color: #840acf;
+  box-shadow: 0 0 11px rgb(85, 73, 73);
+}
+.workbox img {
+  width: 100%;
+  height: 250px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+h3,
+.workbox p {
+  text-align: center;
+  color: rgb(104, 92, 92);
+}
+.workbox p {
+  font-size: 15px;
+  padding: 0 5px;
+}
+
+.parahed {
+  font-weight: 10;
+  font-size: 25px;
+  color: white;
+}
+.workpage strong {
+  color: #a020f0;
+}
+@media (max-width: 800px) {
+  .workpage {
+    margin-top: 20%;
+  }
+  .workcontainer {
+    margin-left: 8%;
+    width: 100%;
+  }
+}
+@media (max-width: 600px) {
+  .workcontainer {
+    width: 85%;
+    display: block;
+  }
+  .workbox {
+    width: 100%;
+    margin-bottom: 4%;
+  }
+}
