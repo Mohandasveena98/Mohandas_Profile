@@ -105,7 +105,7 @@ export default function Work() {
           </div>
         </div>
         <div class="workcontainer">
-          <div class="workbox" style={{ width: "300px" }}>
+          <div class="workbox" style={{ width: "295px" }}>
             <div>
               <img src="https://www.makeitgrateful.com/wp-content/uploads/2019/05/diy-photo-frame-tutorial-768x512.jpg" />
               <h3>Zig-Zag Photo</h3>
@@ -117,6 +117,24 @@ export default function Work() {
               </p>
               <div>
                 <a href="https://6ksv8g-3001.csb.app/" target="_blank">
+                  <button>Check App</button>
+                </a>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="workbox" style={{ width: "295px" }}>
+            <div>
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLlIkEXC6t3j8bYdflNxbEqlhMc15BCFwgvQ&s" />
+              <h3>Ecommerce website</h3>
+              <p>
+                This is a simple online store where users can buy any products.
+                The website has some few products when the users can see the details of the product and
+                get the product.
+              </p>
+              <div>
+                <a href="https://vitejsvite2nyep2-snie--5173--fc837ba8.local-credentialless.webcontainer.io/" target="_blank">
                   <button>Check App</button>
                 </a>
               </div>

@@ -14,7 +14,7 @@
   height: 50px;
   background-color: rgb(28, 28, 29);
   position: absolute;
-  bottom: -1025px;
+  bottom: -1045px;
   text-align: center;
   color: white;
   font-weight: 10;
@@ -81,7 +81,7 @@ i {
     display: block;
   }
   .workplace {
-    bottom: -380%;
+    bottom: -480%;
     height: 150px;
     display: block;
   }
@@ -118,6 +118,9 @@ i {
 
 @media only screen and (max-width: 624px) {
   .workplace {
-    bottom: -310%;
+    bottom: -440%;
+  }
+  .aboutplace {
+    bottom: -285%;
   }
 }

@@ -86,6 +86,9 @@ p {
     margin-left: 8%;
     width: 100%;
   }
+  .boxbkt{
+    margin-top: 200px;
+  }
 }
 @media (max-width: 1024px) {
   .aboutcontainer {
