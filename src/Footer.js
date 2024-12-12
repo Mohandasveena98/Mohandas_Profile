@@ -35,7 +35,7 @@ export default function Footer(params) {
             </Link>
           </i>
           <i>
-            <Link to="mailto: mohandasveena98@gamil.com">
+            <Link to="mailto: mohandasveena98@gmail.com">
               <FaEnvelope style={{ color: "#a020f0" }} />
             </Link>
           </i>

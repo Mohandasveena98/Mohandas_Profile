@@ -30,7 +30,7 @@ function Avatar() {
         <p>Download my Resume from:</p>
         <div className="res">
           <button className="resume">
-            <a href="https://drive.google.com/uc?export=download&id=1iiC2YSEvaTQ-hn_7WvAeV2Gk0XCE2AXJ">
+            <a href="https://drive.google.com/file/d/1Ek0m4484whF2Aamjyt7wEmnOamZY3AaF/view?usp=drive_link">
               Resume
             </a>
           </button>

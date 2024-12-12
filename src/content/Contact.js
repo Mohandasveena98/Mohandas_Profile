@@ -46,7 +46,7 @@ export default function Contct() {
           </i>
           <p className="top">
             <a
-              href="mailto: mohandasveena98@gamil.com"
+              href="mailto: mohandasveena98@gmail.com"
               style={{
                 textDecoration: "none",
                 color: "white"
@@ -79,7 +79,7 @@ export default function Contct() {
             </Link>
           </i>
           <i>
-            <Link to="mailto: mohandasveena98@gamil.com">
+            <Link to="mailto: mohandasveena98@gmail.com">
               <FaEnvelope className="icon" />
             </Link>
           </i>
