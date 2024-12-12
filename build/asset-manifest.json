@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Mohandas_Profile/static/css/main.dc607a39.css",
+    "main.js": "/Mohandas_Profile/static/js/main.431e1b64.js",
+    "static/media/myAvatar.svg": "/Mohandas_Profile/static/media/myAvatar.16988159fb32568695e9e0992642ec0b.svg",
+    "index.html": "/Mohandas_Profile/index.html",
+    "main.dc607a39.css.map": "/Mohandas_Profile/static/css/main.dc607a39.css.map",
+    "main.431e1b64.js.map": "/Mohandas_Profile/static/js/main.431e1b64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc607a39.css",
+    "static/js/main.431e1b64.js"
+  ]
+}
